@@ -1,3 +1,5 @@
+package definingclasses.BankAccount;
+
 public class BankAccount {
     private static final double DEFAULT_INTEREST_RATE = 0.02;
 
